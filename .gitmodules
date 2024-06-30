@@ -1,0 +1,3 @@
+[submodule "src/code"]
+	path = src/code
+	url = git@github.com:ETHZ-RobotX/smb_common.git
